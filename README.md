@@ -42,7 +42,7 @@ This dataset provides all the necessary information to perform spatial, temporal
 
 ---
 
-## 🛠Tools & Libraries
+## Tools & Libraries
 
 We use the following Python libraries:
 
@@ -88,10 +88,10 @@ A bar chart shows how many stations fall into each category. We observe:
 
 ## Sample Visualizations
 
-- 🗺️ Interactive Metro Station Map
-- 📊 Bar chart showing number of stations opened by year
-- 📉 Comparison of metro lines (station count vs. spacing)
-- 🏗️ Station layout type distribution
+-  Interactive Metro Station Map
+-  Bar chart showing number of stations opened by year
+-  Comparison of metro lines (station count vs. spacing)
+-  Station layout type distribution
 
 All visuals are **interactive** and provide deeper insights into how the Delhi Metro functions.
 
