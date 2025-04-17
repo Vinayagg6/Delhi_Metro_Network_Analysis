@@ -1,10 +1,10 @@
-# 🚇 Delhi Metro Network Analysis with Python
+#  Delhi Metro Network Analysis with Python
 
 Welcome to the **Delhi Metro Network Analysis** project! This project takes a deep dive into the structure and evolution of the Delhi Metro using Python. Whether you’re a data science enthusiast, urban planner, or just curious about how city transportation works, this project offers a clear, interactive way to understand a real-world metro system.
 
 ---
 
-## 📘 Why This Project?
+##  Why This Project?
 
 Cities are growing rapidly, and public transportation is key to reducing traffic, pollution, and travel time. A metro system like **Delhi Metro** carries millions of passengers daily. But have you ever wondered:
 - How has the metro network grown over the years?
@@ -16,7 +16,7 @@ This project answers these questions using **data analysis** and **visualization
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 1. **Understand the spatial distribution** of metro stations.
 2. **Track the historical growth** of the network over the years.
@@ -25,7 +25,7 @@ This project answers these questions using **data analysis** and **visualization
 
 ---
 
-## 🧾 The Dataset
+##  The Dataset
 
 The dataset used is a CSV file named `Delhi Metro Network.csv`, which includes:
 
@@ -42,7 +42,7 @@ This dataset provides all the necessary information to perform spatial, temporal
 
 ---
 
-## 🛠️ Tools & Libraries
+## 🛠Tools & Libraries
 
 We use the following Python libraries:
 
@@ -55,17 +55,17 @@ These tools allow us to turn raw data into meaningful visual insights.
 
 ---
 
-## 🔍 What You'll See in This Project
+##  What You'll See in This Project
 
-### 1. 📍 **Geographical Map of Stations**
+### 1. **Geographical Map of Stations**
 Using **Folium**, we plot each station on a live interactive map with color-coded lines. Hovering over a marker shows the station name and line. This helps visualize how well-distributed stations are across the city.
 
-### 2. 📅 **Time-Series Growth Analysis**
+### 2.  **Time-Series Growth Analysis**
 We analyze how many stations opened each year. A bar chart shows key expansion periods. For example:
 - Some years have major spikes (network expansion).
 - Other years have slowdowns (construction or planning delays).
 
-### 3. 📏 **Metro Line Analysis**
+### 3.  **Metro Line Analysis**
 We calculate:
 - The total number of stations per line.
 - The average distance between two consecutive stations.
@@ -74,7 +74,7 @@ This helps us answer:
 - Which line is the longest?
 - Which line is the most densely packed?
 
-### 4. 🧱 **Station Layout Analysis**
+### 4. **Station Layout Analysis**
 Metro stations can be:
 - **Elevated** (built on flyovers)
 - **Underground** (below the surface)
@@ -86,7 +86,7 @@ A bar chart shows how many stations fall into each category. We observe:
 
 ---
 
-## 📈 Sample Visualizations
+## Sample Visualizations
 
 - 🗺️ Interactive Metro Station Map
 - 📊 Bar chart showing number of stations opened by year
@@ -97,9 +97,3 @@ All visuals are **interactive** and provide deeper insights into how the Delhi M
 
 ---
 
-## ▶️ How to Run This Project
-
-### Step 1: Clone the Repo
-```bash
-git clone https://github.com/yourusername/delhi-metro-network-analysis.git
-cd delhi-metro-network-analysis
